@@ -8,7 +8,7 @@ lista = ["a", "b", "d", "f", "g", "h", "i", "j", "l", "m", "n", "o", "p", "q", "
 elemento = lista[1] #Zero seria o primeiro elemento da lista
 print(elemento)
 
-#Remova o primeiro elemento da lista [10, 20, 30] (use del ou método de lista).
+#Remova o primeiro elemento da lista [10, 20, 30] (use del ou metodo de lista).
 lista = [10, 20, 30]
 del lista[0]
 print(lista)  
